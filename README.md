@@ -1,5 +1,5 @@
 # Persian-handwritten-digits-detector
-Detecting Persian Handwritten Digits Using Machine Learning (Offline Prediction) and Deep Learning (Real-time Prediction) and an iOS Application
+Detecting Persian handwritten digits using Machine Learning (Offline Prediction) and Deep Learning (Real-time Prediction) and an iOS application.
 
 # Demo
 
